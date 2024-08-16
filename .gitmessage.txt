@@ -1,0 +1,5 @@
+# <type>:<description>
+# 띄우기
+# [optional body]
+# 띄우기
+# [optional footer]
